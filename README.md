@@ -5,7 +5,7 @@
 
 ## I'm a Student, Design Engineer, Developer, and Teacher!!
 
-- 🔭 I just launched my first blog: [Dpk on Social Media!][]!
+- 🔭 I just launched my first blog: [Dpk on Social Media!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
