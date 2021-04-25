@@ -49,7 +49,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
@@ -61,7 +61,7 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
----
+--- 
 
 ### 📕 Latest Blog Posts
 
@@ -88,7 +88,7 @@
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
