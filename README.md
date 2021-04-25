@@ -23,7 +23,7 @@
 [<img align="left" alt="Dpktewatia | YouTube" width="22px" src="https://img.icons8.com/color/144/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Dpktewatia | Twitter" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="Dpktewatia | LinkedIn" width="22px" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Dpktewatia | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.pngg" />][instagram]
+[<img align="left" alt="Dpktewatia | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
