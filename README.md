@@ -89,6 +89,13 @@
 <!--END_SECTION:activity-->
 
  <!-- </details> -->
+ 
+  <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dpktewatia&show_icons=true&theme=gotham" alt="Dpk Tewatia | Stats" />
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
