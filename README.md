@@ -91,18 +91,18 @@
  <!-- </details> -->
  
   <details>
-<summary>📊 Github Stats</summary>
+<summary>📊:zap: Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dpktewatia&show_icons=true&theme=gotham" alt="Dpk Tewatia | Stats" />
 
 </details>
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="DpkTewatia's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=dpktewatia&show_icons=true&hide_border=true" />
+</details> -->
 
-</details>
+![Visitor Count](https://profile-counter.glitch.me/{dpktewatia}/count.svg)
 
 [website]: https://dpkonsocialmedia.blogspot.com
 [course]: http://csharpcorner.com
