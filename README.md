@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DpkTewatia's GitHub Stats" src="https://github-readme-stats.dpktewatia.vercel.app/api?username=Dpktewatia&show_icons=true&hide_border=true" />
+  <img align="left" alt="DpkTewatia's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=dpktewatia&show_icons=true&hide_border=true" />
 
 </details>
 
