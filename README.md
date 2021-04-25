@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dpkonsocialmedia.blogspot.com" width="22px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>][website]
+[<img align="left" alt="dpkonsocialmedia.blogspot.com" width="22px" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/>][website]
 [<img align="left" alt="Dpktewatia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
