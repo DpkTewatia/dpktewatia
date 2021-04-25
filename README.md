@@ -98,12 +98,12 @@
 </details>
 
 [website]: https://dpkonsocialmedia.blogspot.com
-[course]: http://vsCodeHero.com
+[course]: http://csharpcorner.com
 [twitter]: https://twitter.com/dpktewatia
-[youtube]: https://youtube.com/deepaktewatia
-[instagram]: https://instagram.com/dpktewatia
-[linkedin]: https://linkedin.com/in/deepaktewatia
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[youtube]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
+[instagram]: https://www.instagram.com/dpk_tewatia/
+[linkedin]: https://www.linkedin.com/in/dpk-tewatia-640b68113/
+[webdevplaylist]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
+[jsplaylist]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
+[cssplaylist]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
+[reactplaylist]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
