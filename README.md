@@ -99,7 +99,7 @@
 
 </details>
 
-![](https://github-readme-stats.vercel.app/api?username=Dpktewatia&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Dpktewatia&show_icons=true&theme=gotham)
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
