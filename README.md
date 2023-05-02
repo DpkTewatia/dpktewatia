@@ -3,7 +3,6 @@
 <!-- ### Hi there, I'm Dpk Tewatia - aka [Dpk Tewatia][website] 👋 -->
 
 [![Website](https://img.shields.io/website?label=dpkDB.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.dpkdb.com)
-<!-- [![Website](https://img.shields.io/website?label=dpkonsocialmedia.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dpkonsocialmedia.blogspot.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/DpkTewatia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Dpktewatia)
 
 ## I'm a Student, Design Engineer, Software Engineer!!
@@ -20,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dpkonsocialmedia.blogspot.com" width="22px" src="https://img.icons8.com/color/48/000000/domain.png"/>][website]
+[<img align="left" alt="dpkdb.com" width="22px" src="https://img.icons8.com/color/48/000000/domain.png"/>][website]
 [<img align="left" alt="Dpktewatia | YouTube" width="22px" src="https://img.icons8.com/color/144/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Dpktewatia | Twitter" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="Dpktewatia | LinkedIn" width="22px" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
@@ -109,7 +108,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{dpktewatia}/count.svg)
 
-[website]: https://dpkonsocialmedia.blogspot.com
+[website]: https://dpkdb.com
 [course]: http://csharpcorner.com
 [twitter]: https://twitter.com/dpktewatia
 [youtube]: https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw
