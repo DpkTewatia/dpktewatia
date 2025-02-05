@@ -62,7 +62,7 @@ I'm a DevOps Engineer and Cloud Security Expert at MCN Solutions, passionate abo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dpktewatia&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpktewatia&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dpktewatia&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect with me
