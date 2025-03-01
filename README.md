@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   
-  <p>DevOps Engineer | Cloud Security Expert | Product Owner at C# Corner</p>
+  <p>DevOps Engineer | Cloud Security Expert | Program Manager at CSharp Inc.</p>
 
   [![Website](https://img.shields.io/website?label=dpkDB.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.dpkdb.com)
   [![Twitter Follow](https://img.shields.io/twitter/follow/DpkTewatia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dpktewatia)
