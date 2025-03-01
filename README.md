@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a DevOps Engineer and Cloud Security Expert at MCN Solutions, passionate about building and securing scalable infrastructure. As a Product Owner at C# Corner, I help drive technical innovation and community engagement.
+I'm a DevOps Engineer and Cloud Security Expert at MCN Solutions, passionate about building and securing scalable infrastructure. As a Program Manager at CSharp Inc., I help drive technical innovation and community engagement.
 
 - 🔭 Currently working on cloud-native security solutions
 - 🌱 Always learning about the latest in DevOps and Cloud Security
