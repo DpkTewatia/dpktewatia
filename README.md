@@ -1,18 +1,28 @@
-<div align="center">
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20Tewatia&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20DevOps%20%C2%B7%20Cloud%20Security&descSize=18&descAlignY=58&animation=fadeIn" alt="Deepak Tewatia, Tech Lead, DevOps and cloud security" width="100%" />
+</p>
 
-# Deepak Tewatia
+<p align="center">
+  <a href="https://dpkdb.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=45&lines=Tech+Lead+at+Thinkverse+Labs;DevOps+%C2%B7+Cloud+Security+%C2%B7+IaC;Secure%2C+scalable+infrastructure;Currently+building+DevSocial" alt="Tech Lead at Thinkverse Labs. DevOps, cloud security and Infrastructure as Code." />
+  </a>
+</p>
 
-**Tech Lead at Thinkverse Labs** · DevOps · Cloud security · Infrastructure automation
+<p align="center">
+  <a href="https://dpkdb.com">dpkdb.com</a> ·
+  <a href="https://www.linkedin.com/in/dpk-tewatia-640b68113/">LinkedIn</a> ·
+  <a href="https://x.com/dpktewatia">X</a> ·
+  <a href="https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw">YouTube</a>
+</p>
 
-[dpkdb.com](https://dpkdb.com) · [LinkedIn](https://www.linkedin.com/in/dpk-tewatia-640b68113/) · [X](https://x.com/dpktewatia) · [YouTube](https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw)
-
-</div>
+---
 
 I'm a Tech Lead at [Thinkverse Labs](https://think-verse.com), a software company in Noida that builds web platforms, mobile apps and cloud systems for startups and growing businesses. I came to this role through DevOps and cloud security, and I'm still hands-on with infrastructure and code.
 
 What I care about most is the foundation under a product: environments defined in code, pipelines that ship safely, and cloud setups where security is designed in from the start rather than patched on later.
 
-## What I do
+## ⚡ What I do
 
 - **Build:** I work directly on infrastructure and application code, not just the plans around them.
 - **Design:** I make architecture decisions about how our systems are structured, deployed and scaled.
@@ -21,84 +31,96 @@ What I care about most is the foundation under a product: environments defined i
 
 My background spans DevOps, cloud security, infrastructure automation and technical program management. That mix helps me move between a Terraform plan and a delivery timeline without losing sight of either.
 
-## Projects I've worked on
+## 🚀 Projects I've worked on
 
-- **[C# Corner](https://www.c-sharpcorner.com)**: a developer community where students learn, developers grow and companies hire.
-- **[HackIndia](https://hackindia.org)**: a hackathon platform that runs events for developers and students across India.
-- **Sharp Rewards**
-- **DevSocial**: what I'm building right now. More soon.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.c-sharpcorner.com">C# Corner</a></h3>
+      A developer community where students learn, developers grow and companies hire.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://hackindia.org">HackIndia</a></h3>
+      A hackathon platform that runs events for developers and students across India.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Sharp Rewards</h3>
+      More details soon.
+    </td>
+    <td width="50%" valign="top">
+      <h3>DevSocial <img src="https://img.shields.io/badge/status-building-f59e0b?style=flat-square" alt="Status: building" /></h3>
+      What I'm building right now. More soon.
+    </td>
+  </tr>
+</table>
 
-## Career
+## 🧭 Career
 
 | When | Role |
 | --- | --- |
-| Jan 2026 – present | Tech Lead, Thinkverse Labs Pvt Ltd |
+| **Jan 2026 – present** | Tech Lead, Thinkverse Labs Pvt Ltd |
 | Mar 2022 – Dec 2025 | DevOps and cloud security, MCN Solutions Pvt Ltd |
 
-## Outside the day job
+<details>
+<summary><b>Beyond the day job</b></summary>
+<br>
 
 I follow open-source infrastructure tooling and care about technical communities: the places where engineers learn from each other's mistakes in the open. If you're working on Infrastructure as Code, cloud security or CI/CD design, I'm happy to compare notes.
+
+</details>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+#### Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,nginx,linux&perline=8" alt="AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Nginx, Linux" />
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+#### CI/CD & Monitoring
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,prometheus,grafana,git,github&perline=7" alt="GitHub Actions, Jenkins, GitLab CI, Prometheus, Grafana, Git, GitHub" />
 
-### CI/CD & Monitoring
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+#### Languages & Scripting
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,nodejs,bash,powershell&perline=8" alt="C#, .NET, Python, JavaScript, TypeScript, Node.js, Bash, PowerShell" />
 
-### Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,vscode&perline=5" alt="PostgreSQL, MySQL, MongoDB, Redis, VS Code" />
+<br>
+<sub>Also: Microsoft SQL Server</sub>
 
 </div>
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dpktewatia&show_icons=true&theme=github_dark" alt="GitHub Stats" />
- <img src="https://streak-stats.demolab.com?user=Dpktewatia&theme=github-dark-blue" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dpktewatia&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for dpktewatia" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake.svg" alt="Snake animation eating my GitHub contribution graph" />
+  </picture>
+</p>
 
 ## 🤝 Connect with me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpk-tewatia-640b68113/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dpktewatia)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dpktewatia)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://dpkdb.com)
+[![Website](https://img.shields.io/badge/dpkdb.com-%232F81F7.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpkdb.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dpktewatia&label=Profile%20views&color=2f81f7&style=flat" alt="Profile views" />
 
 </div>
 
----
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/{dpktewatia}/count.svg)
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="" width="100%" />
+</p>
