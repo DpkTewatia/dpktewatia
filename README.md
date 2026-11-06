@@ -94,7 +94,11 @@ I follow open-source infrastructure tooling and care about technical communities
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dpktewatia&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for dpktewatia" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dpktewatia&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dpktewatia&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=dpktewatia&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for dpktewatia" />
+  </picture>
 </p>
 
 <p align="center">
