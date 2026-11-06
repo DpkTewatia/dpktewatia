@@ -91,6 +91,7 @@ I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/memb
 ## 🏅 Recognition & certifications
 
 - 🏆 **C# Corner MVP**
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Azure Data Fundamentals (DP-900)
 - Oracle 1Z0-922: MySQL Implementation Associate
 - GitHub for DevOps
