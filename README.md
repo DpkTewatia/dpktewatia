@@ -56,6 +56,18 @@ My background spans DevOps, cloud security, infrastructure automation and techni
   </tr>
 </table>
 
+## ✍️ Recent writing
+
+I publish articles on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia). The latest, updated daily:
+
+<!-- CSC-ARTICLES:START -->
+- [Exchange Dedicated Hybrid App: What Admins Must Do Now](https://www.c-sharpcorner.com/article/exchange-dedicated-hybrid-app-what-admins-must-do-now)
+- [What Is Perplexity AI, and When Should You Use It?](https://www.c-sharpcorner.com/article/what-is-perplexity-ai-and-when-should-you-use-it)
+- [Building Retrieval-Augmented Generation (RAG) in C#](https://www.c-sharpcorner.com/article/building-retrieval-augmented-generation-rag-in-c-sharp)
+- [Meta Muse: Meta's AI Agent App and Models](https://www.c-sharpcorner.com/article/meta-muse-metas-ai-agent-app-and-models)
+- [Choosing the Right TanStack Library for Your React App](https://www.c-sharpcorner.com/article/choosing-the-right-tanstack-library-for-your-react-app)
+<!-- CSC-ARTICLES:END -->
+
 ## 🧭 Career
 
 | When | Role |
