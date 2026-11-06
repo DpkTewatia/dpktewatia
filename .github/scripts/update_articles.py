@@ -13,6 +13,7 @@ from pathlib import Path
 PROFILE = "https://www.c-sharpcorner.com/members/deepak-tewatia"
 BASE = "https://www.c-sharpcorner.com"
 LIMIT = 5
+UTM = "?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing"
 START, END = "<!-- CSC-ARTICLES:START -->", "<!-- CSC-ARTICLES:END -->"
 README = Path(__file__).resolve().parents[2] / "README.md"
 
@@ -34,7 +35,7 @@ def main() -> int:
         if path in seen:
             continue
         seen.add(path)
-        items.append(f"- [{html.unescape(title).strip()}]({BASE}{path})")
+        items.append(f"- [{html.unescape(title).strip()}]({BASE}{path}{UTM})")
         if len(items) == LIMIT:
             break
 

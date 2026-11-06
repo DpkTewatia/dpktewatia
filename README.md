@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://dpkdb.com">
+  <a href="https://dpkdb.com?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=header">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=45&lines=Tech+Lead+at+Thinkverse+Labs;DevOps+%C2%B7+Cloud+Security+%C2%B7+IaC;Secure%2C+scalable+infrastructure;Currently+building+DevSocial" alt="Tech Lead at Thinkverse Labs. DevOps, cloud security and Infrastructure as Code." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://dpkdb.com">dpkdb.com</a> ·
+  <a href="https://dpkdb.com?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=header">dpkdb.com</a> ·
   <a href="https://www.linkedin.com/in/dpk-tewatia-640b68113/">LinkedIn</a> ·
   <a href="https://x.com/dpktewatia">X</a> ·
   <a href="https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw">YouTube</a>
@@ -18,7 +18,7 @@
 
 ---
 
-I'm a Tech Lead at [Thinkverse Labs](https://think-verse.com), a software company in Noida that builds web platforms, mobile apps and cloud systems for startups and growing businesses. I came to this role through DevOps and cloud security, and I'm still hands-on with infrastructure and code.
+I'm a Tech Lead at [Thinkverse Labs](https://think-verse.com?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=intro), a software company in Noida that builds web platforms, mobile apps and cloud systems for startups and growing businesses. I came to this role through DevOps and cloud security, and I'm still hands-on with infrastructure and code.
 
 What I care about most is the foundation under a product: environments defined in code, pipelines that ship safely, and cloud setups where security is designed in from the start rather than patched on later.
 
@@ -36,11 +36,11 @@ My background spans DevOps, cloud security, infrastructure automation and techni
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://www.c-sharpcorner.com">C# Corner</a></h3>
+      <h3><a href="https://www.c-sharpcorner.com?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=projects">C# Corner</a></h3>
       A developer community where students learn, developers grow and companies hire.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://hackindia.org">HackIndia</a></h3>
+      <h3><a href="https://hackindia.org?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=projects">HackIndia</a></h3>
       A hackathon platform that runs events for developers and students across India.
     </td>
   </tr>
@@ -58,14 +58,14 @@ My background spans DevOps, cloud security, infrastructure automation and techni
 
 ## ✍️ Recent writing
 
-I publish articles on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia). The latest, updated daily:
+I publish articles on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
-- [Exchange Dedicated Hybrid App: What Admins Must Do Now](https://www.c-sharpcorner.com/article/exchange-dedicated-hybrid-app-what-admins-must-do-now)
-- [What Is Perplexity AI, and When Should You Use It?](https://www.c-sharpcorner.com/article/what-is-perplexity-ai-and-when-should-you-use-it)
-- [Building Retrieval-Augmented Generation (RAG) in C#](https://www.c-sharpcorner.com/article/building-retrieval-augmented-generation-rag-in-c-sharp)
-- [Meta Muse: Meta's AI Agent App and Models](https://www.c-sharpcorner.com/article/meta-muse-metas-ai-agent-app-and-models)
-- [Choosing the Right TanStack Library for Your React App](https://www.c-sharpcorner.com/article/choosing-the-right-tanstack-library-for-your-react-app)
+- [Exchange Dedicated Hybrid App: What Admins Must Do Now](https://www.c-sharpcorner.com/article/exchange-dedicated-hybrid-app-what-admins-must-do-now?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
+- [What Is Perplexity AI, and When Should You Use It?](https://www.c-sharpcorner.com/article/what-is-perplexity-ai-and-when-should-you-use-it?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
+- [Building Retrieval-Augmented Generation (RAG) in C#](https://www.c-sharpcorner.com/article/building-retrieval-augmented-generation-rag-in-c-sharp?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
+- [Meta Muse: Meta's AI Agent App and Models](https://www.c-sharpcorner.com/article/meta-muse-metas-ai-agent-app-and-models?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
+- [Choosing the Right TanStack Library for Your React App](https://www.c-sharpcorner.com/article/choosing-the-right-tanstack-library-for-your-react-app?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
@@ -120,7 +120,7 @@ I follow open-source infrastructure tooling and care about technical communities
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpk-tewatia-640b68113/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dpktewatia)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4QDXuNGTpXfxaCdKWpLlZw)
-[![Website](https://img.shields.io/badge/dpkdb.com-%232F81F7.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpkdb.com)
+[![Website](https://img.shields.io/badge/dpkdb.com-%232F81F7.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpkdb.com?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=connect)
 
 <br>
 
