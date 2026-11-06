@@ -113,14 +113,6 @@ I follow open-source infrastructure tooling and care about technical communities
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/dpktewatia/dpktewatia/output/github-snake.svg" alt="Snake animation eating my GitHub contribution graph" />
-  </picture>
-</p>
-
 ## 🤝 Connect with me
 
 <div align="center">
