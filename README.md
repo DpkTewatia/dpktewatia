@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [Cursor Pricing in 2026 Is More Than the Plan Price](https://www.c-sharpcorner.com/article/cursor-pricing-in-2026-is-more-than-the-plan-price?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [ChatGPT Work: A Practical Guide for Teams](https://www.c-sharpcorner.com/article/chatgpt-work-a-practical-guide-for-teams?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Exchange Dedicated Hybrid App: What Admins Must Do Now](https://www.c-sharpcorner.com/article/exchange-dedicated-hybrid-app-what-admins-must-do-now?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [What Is Perplexity AI, and When Should You Use It?](https://www.c-sharpcorner.com/article/what-is-perplexity-ai-and-when-should-you-use-it?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Building Retrieval-Augmented Generation (RAG) in C#](https://www.c-sharpcorner.com/article/building-retrieval-augmented-generation-rag-in-c-sharp?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [Meta Muse: Meta's AI Agent App and Models](https://www.c-sharpcorner.com/article/meta-muse-metas-ai-agent-app-and-models?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
