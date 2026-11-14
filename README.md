@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [How to Use Windows 11 Task Manager to Fix a Slow or Frozen PC](https://www.c-sharpcorner.com/article/how-to-use-windows-11-task-manager-to-fix-a-slow-or-frozen-pc?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [What Is Artificial Intelligence, and How Does It Work?](https://www.c-sharpcorner.com/article/what-is-artificial-intelligence-and-how-does-it-work?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [What Is Vibe Coding, and How Do You Do It Safely?](https://www.c-sharpcorner.com/article/what-is-vibe-coding-and-how-do-you-do-it-safely?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [The Best AI Coding Models of 2026 for Each Kind of Task](https://www.c-sharpcorner.com/article/the-best-ai-coding-models-of-2026-for-each-kind-of-task?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How AI Agents Work, With a Python Agent You Can Run](https://www.c-sharpcorner.com/article/how-ai-agents-work-with-a-python-agent-you-can-run?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [Cursor Pricing in 2026 Is More Than the Plan Price](https://www.c-sharpcorner.com/article/cursor-pricing-in-2026-is-more-than-the-plan-price?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
