@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [How to Open a DAT File and Find Out What's Really Inside](https://www.c-sharpcorner.com/article/how-to-open-a-dat-file-and-find-out-whats-really-inside?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Open the CMD Prompt and the Commands Worth Knowing](https://www.c-sharpcorner.com/article/how-to-open-the-cmd-prompt-and-the-commands-worth-knowing?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Use Display Driver Uninstaller (DDU) Safely](https://www.c-sharpcorner.com/article/how-to-use-display-driver-uninstaller-ddu-safely?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Use Windows 11 Task Manager to Fix a Slow or Frozen PC](https://www.c-sharpcorner.com/article/how-to-use-windows-11-task-manager-to-fix-a-slow-or-frozen-pc?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [What Is Artificial Intelligence, and How Does It Work?](https://www.c-sharpcorner.com/article/what-is-artificial-intelligence-and-how-does-it-work?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [What Is Vibe Coding, and How Do You Do It Safely?](https://www.c-sharpcorner.com/article/what-is-vibe-coding-and-how-do-you-do-it-safely?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
