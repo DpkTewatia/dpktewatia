@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [How to Screen Share on Windows, Mac, Phones and TVs](https://www.c-sharpcorner.com/article/how-to-screen-share-on-windows-mac-phones-and-tvs?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Best AI Tools in 2026, Picked by the Job You Need Done](https://www.c-sharpcorner.com/article/best-ai-tools-in-2026-picked-by-the-job-you-need-done?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Open a DAT File and Find Out What's Really Inside](https://www.c-sharpcorner.com/article/how-to-open-a-dat-file-and-find-out-whats-really-inside?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Open the CMD Prompt and the Commands Worth Knowing](https://www.c-sharpcorner.com/article/how-to-open-the-cmd-prompt-and-the-commands-worth-knowing?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Use Display Driver Uninstaller (DDU) Safely](https://www.c-sharpcorner.com/article/how-to-use-display-driver-uninstaller-ddu-safely?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [How to Use Windows 11 Task Manager to Fix a Slow or Frozen PC](https://www.c-sharpcorner.com/article/how-to-use-windows-11-task-manager-to-fix-a-slow-or-frozen-pc?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
