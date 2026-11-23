@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [Dapper in C#: A Practical Guide from Queries to Native AOT](https://www.c-sharpcorner.com/article/dapper-in-c-sharp-a-practical-guide-from-queries-to-native-aot?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Jev AI: A Developer's Look at TypeSafe's Decision Model](https://www.c-sharpcorner.com/article/jev-ai-a-developers-look-at-typesafes-decision-model?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How IConfiguration Works in ASP.NET Core](https://www.c-sharpcorner.com/article/how-iconfiguration-works-in-asp-net-core?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Which Claude AI Model Should You Use in 2026?](https://www.c-sharpcorner.com/article/which-claude-ai-model-should-you-use-in-2026?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [How to Screen Share on Windows, Mac, Phones and TVs](https://www.c-sharpcorner.com/article/how-to-screen-share-on-windows-mac-phones-and-tvs?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [Best AI Tools in 2026, Picked by the Job You Need Done](https://www.c-sharpcorner.com/article/best-ai-tools-in-2026-picked-by-the-job-you-need-done?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
