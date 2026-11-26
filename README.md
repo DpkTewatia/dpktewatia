@@ -69,11 +69,11 @@ From nearly four years as a DevOps Engineer at MCN Solutions:
 I write and share what I learn on [C# Corner](https://www.c-sharpcorner.com/members/deepak-tewatia?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing). The latest, updated daily:
 
 <!-- CSC-ARTICLES:START -->
+- [How a Web App Works, From the Browser to the Database](https://www.c-sharpcorner.com/article/how-a-web-app-works-from-the-browser-to-the-database?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [From .NET Core to .NET 11: Which Version to Use in 2026](https://www.c-sharpcorner.com/article/from-net-core-to-net-11-which-version-to-use-in-2026?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [What Does KPI Mean? Key Performance Indicators With Examples](https://www.c-sharpcorner.com/article/what-does-kpi-mean-key-performance-indicators-with-examples?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Dapper in C#: A Practical Guide from Queries to Native AOT](https://www.c-sharpcorner.com/article/dapper-in-c-sharp-a-practical-guide-from-queries-to-native-aot?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 - [Jev AI: A Developer's Look at TypeSafe's Decision Model](https://www.c-sharpcorner.com/article/jev-ai-a-developers-look-at-typesafes-decision-model?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
-- [How IConfiguration Works in ASP.NET Core](https://www.c-sharpcorner.com/article/how-iconfiguration-works-in-asp-net-core?utm_source=github&utm_medium=profile_readme&utm_campaign=github_profile&utm_content=writing)
 <!-- CSC-ARTICLES:END -->
 
 ## 🧭 Career
